@@ -1,0 +1,19 @@
+{
+  "name": "372-web-server",
+  "version": "1.0.0",
+  "description": "A simple HTTP server using Node.js",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": "6.0.0"
+  },
+  "author": {
+    "name": "Jared Eller"
+  },
+  "scripts": {
+    "dev": "",
+    "test": ""
+  },
+  "license": "ISC"
+}
